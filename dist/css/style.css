@@ -489,6 +489,9 @@ img {
   .contact__form {
     width: 360px;
   }
+  footer p a {
+    color: #4070F4;
+}
   .contact__container {
     justify-items: center;
   }
